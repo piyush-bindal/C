@@ -1,1 +1,2 @@
-<img src="https://64.media.tumblr.com/cca4f06…/428a8db1dc8ae92f-87/s1280x1920/7c75155….gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="KIROKAZE — Wallpaper Engine check out some animated gif on..." data-noaft="1" style="width: 465px; height: 228.373px; margin: 0px;">
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="850" height="300">
+ 
