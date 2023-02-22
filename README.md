@@ -1,2 +1,1 @@
-
- <img class="J9AiF" src="https://64.media.tumblr.com/132a18c…/289784d6fbcb7f73-77/s1280x1920/a0111c3….gif" alt="#Pixel Jeff from it8Bit">
+ <img style="display: block; user-select: none; margin: auto; cursor: zoom-in; background-color: rgb(230, 230, 230); --darkreader-inline-bgcolor:#26292b;" src="https://64.media.tumblr.com/132a18c…/289784d6fbcb7f73-77/s1280x1920/a0111c3….gif" width="981" height="703" data-darkreader-inline-bgcolor>slot
