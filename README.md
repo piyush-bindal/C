@@ -2,4 +2,4 @@
 
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/60b264f…/1622453214675-1239BUJ9UF9GE9U2P5Q3/Farewell.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Pixel Art NFT Week" data-noaft="1" style="width: 465px; height: 261.562px; margin: 0px;">
+ <img src="http://38.media.tumblr.com/7e60191…/tumblr_ntik0xmTjf1qze3hdo1_r1_500.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="pixel art animated gif | WiffleGif" data-noaft="1" style="width: 465px; height: 267.84px; margin: 0px;">
